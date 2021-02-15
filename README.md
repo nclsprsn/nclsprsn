@@ -2,7 +2,6 @@
 
 I’m a engineer based in Bangkok.
 
-- 🔭 I’m currently working on build a plaftorm on Azure
-- 🌱 I’m currently learning Golang and Rust
+- 🔭 I’m currently working on AWS and Huawei Cloud
+- 🌱 I’m currently learning Typescript with Deno and Rust
 - 📫 How to reach me: nicolas.pierson@cornerside.fr
-- ⚡ Fun fact: I love coffee
