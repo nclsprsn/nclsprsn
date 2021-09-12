@@ -2,6 +2,6 @@
 
 I’m a engineer based in Bangkok.
 
-- 🔭 I’m currently working on AWS and Huawei Cloud
-- 🌱 I’m currently learning Typescript with Deno and Rust
+- 🔭 I’m currently working on AWS and GCP
+- 🏢 I'm currently hosting containers in k8s
 - 📫 How to reach me: nicolas.pierson@cornerside.fr
