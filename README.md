@@ -1,7 +1,7 @@
 ### Hi there 👋!
 
-I’m Solution Architect based in Paris, France.
+I’m a Solution Architect based in Paris, France.
 
-- 🔭 I’m currently working on Amazon Web Services, Microsoft Azure, and Google Cloud Platform
-- 🏢 I'm currently hosting containers on Kubernetes and eager to automate processes
-- 📫 How to reach me: nclsprsn@gmail.com
+* ☁ **Cloud Specialist**: Working with AWS, Microsoft Azure, and Google Cloud Platform to design scalable and cost-effective architectures.
+* 🌱 **Continuous Learner**: Exploring new technologies like TypeScript, IA, and beyond.
+* 🌍 **Freelance Professional**: Delivering impactful solutions in Solution Architecture and Cloud Computing.
