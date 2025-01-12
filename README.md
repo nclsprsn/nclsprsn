@@ -1,8 +1,10 @@
 ### Hi there 👋!
 
-I’m a Solution Architect based in Paris, France.
+Hi, I’m a solution architect in Paris, and I'm passionate about designing scalable, efficient, and future-ready systems. Here’s what I specialize in:
 
-* ☁ **Cloud Specialist**: Working with AWS, Microsoft Azure, and Google Cloud Platform to design scalable and cost-effective architectures.
-* 🌱 **Continuous Learner**: Exploring new technologies like TypeScript, IA, and beyond.
-* 🧗 **Climber**: Balancing technical challenges with personal ones, striving for growth both on and off the wall.
-* 🎯 **Freelance**: Focused on delivering impactful Solution Architecture and Cloud Computing missions.
+* **API Standardization**: Crafting guidelines and catalogues to improve collaboration and maintainability.
+* **Domain-Driven Design (DDD)**: Mapping business domains to align technical solutions with organizational goals.
+* **BPMN & Process Mapping**: Simplifying complex workflows for better decision-making.
+* **Cloud Architecture**: Designing robust solutions with AWS, Azure, and Google Cloud.
+
+I thrive on turning complex challenges into impactful solutions that help teams and businesses achieve their goals. Let’s build something great together! 🚀
